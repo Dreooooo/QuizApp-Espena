@@ -1,0 +1,13 @@
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  color: #555;
+  font-weight: bold;
+}
+
+.quiz-header p {
+  margin: 0;
+  font-size: 18px;
+}
